@@ -9,3 +9,23 @@ This tool helps developers analyze Python code quality, identify issues, and gen
 - 📊 **Score Display**: Shows the Pylint score after analysis.  
 - 📜 **Report Generation**: Save analysis results as **TXT** or **HTML**.  
 - 🎨 **Dark-Themed GUI**: User-friendly and modern interface.  
+
+## 🛠 Installation
+
+### **1️⃣ Clone the Repository**
+```sh
+git clone https://github.com/Ashwin171235/pylint-gui-tool.git
+cd pylint-gui-tool
+
+2️⃣ Install Dependencies
+Ensure you have Python 3.x installed, then run:
+pip install pylint tk
+
+Run the GUI tool using:
+python gui.py
+
+🤝 Contributing
+Want to improve this project? Feel free to fork the repo, make changes, and submit a pull request.
+
+📜 License
+This project is licensed under the MIT License.
