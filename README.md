@@ -24,8 +24,4 @@ pip install pylint tk
 Run the GUI tool using:
 python gui.py
 
-🤝 Contributing
-Want to improve this project? Feel free to fork the repo, make changes, and submit a pull request.
 
-📜 License
-This project is licensed under the MIT License.
