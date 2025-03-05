@@ -1,0 +1,5 @@
+************* Module drawing_test
+drawing_test.py:8:17: W0621: Redefining name 't' from outer scope (line 27) (redefined-outer-name)
+
+------------------------------------------------------------------
+Your code has been rated at 9.33/10 (previous run: 9.33/10, +0.00)

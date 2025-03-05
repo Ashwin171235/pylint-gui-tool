@@ -1,0 +1,18 @@
+************* Module C:\Users\Ashwin\code_review_v2\.pylintrc
+.pylintrc:1:0: W0012: Unknown option value for '--disable', expected a valid pylint message and got 'use-implicit-booleaness-not-comparison-to-zero
+C0114' (unknown-option-value)
+************* Module drawing_test
+drawing_test.py:8:17: W0621: Redefining name 't' from outer scope (line 27) (redefined-outer-name)
+
+------------------------------------------------------------------
+Your code has been rated at 9.33/10 (previous run: 9.33/10, +0.00)
+
+************* Module C:\Users\Ashwin\code_review_v2\.pylintrc
+.pylintrc:1:0: W0012: Unknown option value for '--disable', expected a valid pylint message and got 'use-implicit-booleaness-not-comparison-to-zero
+C0114' (unknown-option-value)
+************* Module drawing_test
+drawing_test.py:8:17: W0621: Redefining name 't' from outer scope (line 27) (redefined-outer-name)
+
+------------------------------------------------------------------
+Your code has been rated at 9.33/10 (previous run: 9.33/10, +0.00)
+
